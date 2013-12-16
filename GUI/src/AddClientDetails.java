@@ -11,8 +11,8 @@ public class AddClientDetails extends JFrame implements ActionListener
  JLabel l1,l2,l3,l4;
  JButton b1;
  JTextField t1,t2,t3,t4;
- /* xyz changes*/
- //hwsqjk
+
+
  AddClientDetails()
  {
   l1=new JLabel("Client");
@@ -25,7 +25,7 @@ public class AddClientDetails extends JFrame implements ActionListener
   t2=new JTextField(8);
   t3=new JTextField(8);
   t4=new JTextField(8);
-  /* fdf */
+
   add(l1);
   add(t1);
   add(l2);
