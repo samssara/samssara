@@ -35,7 +35,7 @@ public class MainApplet extends JFrame implements ActionListener
  
         JButton button = new JButton();
 
- 
+ //changes by dipyant
  
   b1.registerKeyboardAction(button.getActionForKeyStroke(
          KeyStroke.getKeyStroke(KeyEvent.VK_SPACE, 0, false)),
